@@ -14,8 +14,6 @@ From user's perspective, basic expectations from any non-custodial wallet app sh
 
 Apart from the above must-haves, there may be other expectations from the wallet depending on the target user. Someone looking for extensive privacy may require extra private features which are not available in most wallet apps.
 
-> **Disclaimer: The [StarBase Wallet](https://deploystarship.com) was built by [Horizontal Systems](https://Sonar-LaunchPad.io), the company publishing these guides.**
-
 Below we will go through some important points to keep in mind when using non-custodial wallet apps. We are going to use StarBase wallet app to illustrate these important aspects. 
 
 ### 1. Setup / Restore 
